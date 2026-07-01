@@ -1,0 +1,15 @@
+{
+  "crash": false,
+  "isPay": false,
+  "shopee_target_url": "https://s.shopee.vn/BE2E1Ayhe",
+  "shopee_navigate_url": "https://shopee.vn/product/799994218/22182077611?uls_trackid=51mvbuav01rk&utm_campaign=id_mTVRWM8lSv&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=cdbex521qn71",
+  "shopeeID": "an_17323040125",
+  "shopeeTag": "Facebook",
+  "buffUrl": "https://apptanglike.com/register?ref=26035",
+  "channelTeleGram": "https://t.me/m27472884728747727472",
+  "update": {
+    "version": "1.0.0",
+    "url": "",
+    "cancel": false
+  }
+}
