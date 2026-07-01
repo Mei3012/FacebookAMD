@@ -1,2 +1,19 @@
-Update FacebookAMD v1.0.0
-- Create changelog content here.
+🔥 Update FacebookAMD v1.2.6
+
+  👉 Sửa lỗi crash JSONException: End of input khi callback OkHttp parse response rỗng/không phải JSON.
+  👉 Thêm tùy chọn bật tắt xoá quảng cáo (Không khuyên dùng)
+  👉 Một số tùy chọn xoá quảng cáo khác được gộp chung vào một nút.
+  👉 Thêm các ngôn ngữ sau cho menu: Thailand, Egypt, Indonesia, Mexico, France, Brazil, Taiwan, Algeria, Bangladesh
+  👉 Sau khi chọn ngôn ngữ thì áp dụng ngay lập tức thay vì phải khởi động lại.
+  👉 Các tùy chọn sau mặc định sẽ được tắt: Clipboard AI, Nút AI trong ô nhập, Menu ngữ cảnh.
+  
+  
+  ✏️ Lưu ý:
+      👉 Luôn cho phép mở ứng dụng Shopee hoặc trình duyệt khi được hỏi, để có trải nghiệm tốt nhất.
+      
+♡ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
+ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ
+#Facebook548.1.0.51.64
+#Arm64.v8a
+#Android9+
+#nodpi
