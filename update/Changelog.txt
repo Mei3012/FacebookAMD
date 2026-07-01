@@ -1,11 +1,16 @@
-🔥 Update FacebookAMD v1.2.6
+🔥 Update FacebookAMD v1.2.7
 
-  👉 Sửa lỗi crash JSONException: End of input khi callback OkHttp parse response rỗng/không phải JSON.
-  👉 Thêm tùy chọn bật tắt xoá quảng cáo (Không khuyên dùng)
-  👉 Một số tùy chọn xoá quảng cáo khác được gộp chung vào một nút.
-  👉 Thêm các ngôn ngữ sau cho menu: Thailand, Egypt, Indonesia, Mexico, France, Brazil, Taiwan, Algeria, Bangladesh
-  👉 Sau khi chọn ngôn ngữ thì áp dụng ngay lập tức thay vì phải khởi động lại.
-  👉 Các tùy chọn sau mặc định sẽ được tắt: Clipboard AI, Nút AI trong ô nhập, Menu ngữ cảnh.
+  👉 Cái tiến mã và giao diện tải video
+  👉 Cái tiến mã và giao diện tùy chỉnh màu nền Facebook.
+  👉 Thêm nút lưu video để xem sau trong menu tải video, Xem video đã lưu tại iconDownload hoặc Menu > Tải Video > Video đã lưu.
+  👉 Thêm tính năng để tùy chỉnh tên hiển thị Facebook (Menu > Giao diện > ...)
+  👉 Video xem trước khi tải và video đã lưu hỗ trợ:
+      - Phát nền
+      - Pip
+      - Xem tiếp thay vì xem lại từ đầu
+      - Xem full màn hình
+  👉 Thêm tính năng 'Đăng lại' để đăng lên video lên 1 Page (iconDownloadVideo > Đăng Lại)
+
   
   
   ✏️ Lưu ý:
