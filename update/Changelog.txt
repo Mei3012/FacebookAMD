@@ -1,0 +1,2 @@
+Update FacebookAMD v1.0.0
+- Create changelog content here.
