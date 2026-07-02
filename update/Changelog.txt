@@ -1,24 +1,2 @@
-🔥 Update FacebookAMD v1.2.7
-
-  👉 Cái tiến mã và giao diện tải video
-  👉 Cái tiến mã và giao diện tùy chỉnh màu nền Facebook.
-  👉 Thêm nút lưu video để xem sau trong menu tải video, Xem video đã lưu tại iconDownload hoặc Menu > Tải Video > Video đã lưu.
-  👉 Thêm tính năng để tùy chỉnh tên hiển thị Facebook (Menu > Giao diện > ...)
-  👉 Video xem trước khi tải và video đã lưu hỗ trợ:
-      - Phát nền
-      - Pip
-      - Xem tiếp thay vì xem lại từ đầu
-      - Xem full màn hình
-  👉 Thêm tính năng 'Đăng lại' để đăng lên video lên 1 Page (iconDownloadVideo > Đăng Lại)
-
-  
-  
-  ✏️ Lưu ý:
-      👉 Luôn cho phép mở ứng dụng Shopee hoặc trình duyệt khi được hỏi, để có trải nghiệm tốt nhất.
-      
-♡ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
-ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ
-#Facebook548.1.0.51.64
-#Arm64.v8a
-#Android9+
-#nodpi
+Update FacebookAMD v1.0.0
+- Create changelog content here.
