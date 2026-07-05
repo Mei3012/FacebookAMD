@@ -1,4 +1,4 @@
-🔥 Update FacebookAMD v1.3.0
+🔥 Update FacebookAMD v1.2.8
 
   👉 Sửa lỗi màu nền tùy chỉnh
   
