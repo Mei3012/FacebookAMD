@@ -1,10 +1,10 @@
 {
     "update": {
         "cancel": false,
-        "show_dialog": false,
-        "vn": false,
-        "non_vn": false,
-        "all": false
+        "show_dialog": true,
+        "vn": true,
+        "non_vn": true,
+        "all": true
     },
     "crash": {
         "vn": false,
