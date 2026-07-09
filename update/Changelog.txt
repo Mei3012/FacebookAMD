@@ -1,16 +1,2 @@
-🔥 Update FacebookAMD v1.2.9
-
-  👉 Sửa lỗi hiển thị tên tùy chỉnh chỉ hiện một phần.
-  👉 Sửa lỗi khác
-  
-  
-  ✏️ Lưu ý:
-      👉 Luôn cho phép mở ứng dụng Shopee hoặc trình duyệt khi được hỏi, để có trải nghiệm tốt nhất.
-      👉 Phiên bản này cần được tải và cập nhật để tránh ảnh hưởng lỗi phát sinh sau này.
-      
-♡ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
-ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ
-#Facebook548.1.0.51.64
-#Arm64.v8a
-#Android9+
-#nodpi
+Update FacebookAMD v1.0.0
+- Create changelog content here.
