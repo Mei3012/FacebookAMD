@@ -6,7 +6,6 @@
     "all": false,
     "cancel": true
   },
-  "crash": true,
   "crash": {
     "vn": false,
     "non_vn": false,
