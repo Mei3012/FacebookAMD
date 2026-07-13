@@ -1,14 +1,26 @@
 {
-  "crash": false,
-  "isPay": false,
-  "shopee_target_url": "https://s.shopee.vn/BE2E1Ayhe",
-  "shopee_navigate_url": "https://shopee.vn/product/799994218/22182077611?uls_trackid=51mvbuav01rk&utm_campaign=id_mTVRWM8lSv&utm_content=Facebook----&utm_medium=affiliates&utm_source=an_17323040125&utm_term=cdbex521qn71",
+  "update": {
+    "show_dialog": false,
+    "vn": false,
+    "non_vn": false,
+    "all": false,
+    "cancel": true
+  },
+  "crash": {
+    "vn": false,
+    "non_vn": false,
+    "all": false
+  },
+  "shopee_target_url": "https://s.shopee.vn/4LAVQqayYt",
+  "shopee_navigate_url": "https://shopee.vn/product/1016604648/23552060269",
   "shopeeID": "an_17323040125",
   "shopeeTag": "Facebook",
+  "channelTeleGram": "https://t.me/facebookamd",
   "buffUrl": "https://apptanglike.com/register?ref=26035",
-  "update": {
-    "version": "1.0.0",
+  "blackList": "100393,100382",
+  "openTiktok": {
     "url": "",
-    "cancel": false
-  }
+    "startActivity": false
+  },
+  "isPay": false
 }
