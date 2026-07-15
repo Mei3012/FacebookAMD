@@ -1,12 +1,15 @@
-🔥 Update FacebookAMD v1.2.9
+🔥 Update FacebookAMD v1.3.0
 
-  👉 Sửa lỗi hiển thị tên tùy chỉnh chỉ hiện một phần.
-  👉 Sửa lỗi khác
-  
+  👉 Thêm nút lấy mô tả video thay vì chỉ hiện videoID trong menu tải video.
+  👉 Loại bỏ cách tải video bằng cách sao chép liên kết video.
+  👉 Sửa lỗi nghiêm trọng với máy chủ FacebookAMD
   
   ✏️ Lưu ý:
       👉 Luôn cho phép mở ứng dụng Shopee hoặc trình duyệt khi được hỏi, để có trải nghiệm tốt nhất.
-      👉 Phiên bản này cần được tải và cập nhật để tránh ảnh hưởng lỗi phát sinh sau này.
+  
+  💲 Donate Paypal: https://www.paypal.com/qrcodes/p2pqrc/UDUJJCZQXK7C4
+  💲 Wallet address: 
+TEyPjh3VM6xzBuFD5rn9hMEZfMzRF44Qse
       
 ♡ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
 ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ
