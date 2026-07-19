@@ -1,8 +1,6 @@
-🔥 Update FacebookAMD v1.3.0
+🔥 Update FacebookAMD v1.3.1
 
-  👉 Thêm nút lấy mô tả video thay vì chỉ hiện videoID trong menu tải video.
-  👉 Loại bỏ cách tải video bằng cách sao chép liên kết video.
-  👉 Sửa lỗi nghiêm trọng với máy chủ FacebookAMD
+  👉 Cập nhật Facebook nền lên phiên bản mới nhất.
   
   ✏️ Lưu ý:
       👉 Luôn cho phép mở ứng dụng Shopee hoặc trình duyệt khi được hỏi, để có trải nghiệm tốt nhất.
@@ -13,7 +11,7 @@ TEyPjh3VM6xzBuFD5rn9hMEZfMzRF44Qse
       
 ♡ㅤ   ❍ㅤ     ⎙ㅤ     ⌲
 ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ
-#Facebook548.1.0.51.64
+#Facebook570.0.0.24.72
 #Arm64.v8a
 #Android9+
 #nodpi
