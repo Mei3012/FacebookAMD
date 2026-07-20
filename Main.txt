@@ -22,5 +22,6 @@
     "url": "",
     "startActivity": false
   },
-  "isPay": false
+  "isPay": false,
+  "tiktokVN": "https://vt.tiktok.com/ZS9rrqsaAvJpN-3UdFt/"
 }
